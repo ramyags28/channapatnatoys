@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "395122390381",
+    "firebase_url": "https://channapatna-toys-62370-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "channapatna-toys-62370",
+    "storage_bucket": "channapatna-toys-62370.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:395122390381:android:5df48954300670692a1664",
+        "android_client_info": {
+          "package_name": "com.example.myapplicationchannapatnatoys"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXzsHCMQzZlfm6ETWrFNrwiBqNl8Pjx04"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
